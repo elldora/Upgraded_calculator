@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8v1eP4c5d6SZUqSj2P362MvZ9Tt8RWcG1Y5Bq8Vlz4VyMAegaKvP3ddbeuhr32jSqfAoySNQlhwnUoOl89riw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Green\\My Programming Projects\\calculator\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Green\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\Green\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

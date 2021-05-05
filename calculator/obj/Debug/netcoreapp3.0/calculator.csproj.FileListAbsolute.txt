@@ -9,3 +9,16 @@ D:\OneDrive - Hogeschool West-Vlaanderen\C#\calculator\calculator\obj\Debug\netc
 D:\OneDrive - Hogeschool West-Vlaanderen\C#\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfo.cs
 D:\OneDrive - Hogeschool West-Vlaanderen\C#\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.dll
 D:\OneDrive - Hogeschool West-Vlaanderen\C#\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.pdb
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.exe
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.deps.json
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.json
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.dev.json
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.dll
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.pdb
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.csprojAssemblyReference.cache
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfo.cs
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.dll
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.pdb
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.genruntimeconfig.cache

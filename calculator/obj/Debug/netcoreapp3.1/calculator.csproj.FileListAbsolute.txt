@@ -1,0 +1,13 @@
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+C:\Users\Green\My Programming Projects\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\Green\My Programming Projects\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
