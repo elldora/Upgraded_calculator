@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-#nullable enable
+//#nullable enable
 
 namespace calculator
 {
@@ -15,7 +15,7 @@ namespace calculator
         private static void ask_number_one()
         {
             Console.Write("Enter any number >> ");
-            string? input = Console.ReadLine();
+            string input = Console.ReadLine();
 			
 			//target-typed expressions introduced in C# 9.0 ...
             float? number_one = (float.TryParse(input, out float number)) ? number : null;
@@ -35,7 +35,7 @@ namespace calculator
         private static void ask_number_two(float? number_one)
         {
             Console.Write("Enter a second number >> ");
-            string? input = Console.ReadLine();
+            string input = Console.ReadLine();
             float? number_two = (float.TryParse(input, out float number)) ? number : null;
 
             if (number_two != null)
@@ -52,7 +52,7 @@ namespace calculator
         private static void ask_operation(float? number_one, float? number_two)
         {
             Console.Write("Enter any operator (add, +, sub, -, mul, *, div, /) >> ");
-            string? input = Console.ReadLine();
+            string input = Console.ReadLine();
             
 			switch (input!)
 			{
