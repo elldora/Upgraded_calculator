@@ -14,16 +14,19 @@ namespace calculator
 
         private static void ask_number_one()
         {
+<<<<<<< HEAD
+            Console.Write("Enter the first number >> ");
+			string? input = null;
+			input = Console.ReadLine();
+=======
             Console.Write("Enter any number >> ");
             string input = Console.ReadLine();
+>>>>>>> refs/remotes/origin/main
 			
-			//target-typed expressions introduced in C# 9.0 ...
-            float? number_one = (float.TryParse(input, out float number)) ? number : null;
-			
-            if (number_one != null)
-            {
-				ask_number_two(number_one);
-            }
+			if (input?.Length!=0 && float.TryParse(input, out float number))
+			{
+				ask_number_two(number);
+			}
             else
             {
                 Console.WriteLine("Emphasis on number.");
@@ -32,8 +35,19 @@ namespace calculator
 			
         }
 
-        private static void ask_number_two(float? number_one)
+        private static void ask_number_two(float number_one)
         {
+<<<<<<< HEAD
+            Console.Write("Enter the second number >> ");
+			string? input = null;
+			input = Console.ReadLine();
+			
+            if (!string.IsNullOrEmpty(input) && float.TryParse(input, out float number))
+			{
+				ask_operation(number_one, number);
+			}
+            else  
+=======
             Console.Write("Enter a second number >> ");
             string input = Console.ReadLine();
             float? number_two = (float.TryParse(input, out float number)) ? number : null;
@@ -43,18 +57,19 @@ namespace calculator
                 ask_operation(number_one, number_two);
             }
             else 
+>>>>>>> refs/remotes/origin/main
             {
                 Console.WriteLine("Emphasis on number.");
                 ask_number_two(number_one);
             }
         }
 
-        private static void ask_operation(float? number_one, float? number_two)
+        private static void ask_operation(float number_one, float number_two)
         {
             Console.Write("Enter any operator (add, +, sub, -, mul, *, div, /) >> ");
             string input = Console.ReadLine();
             
-			switch (input!)
+			switch (input)
 			{
                 case "add":
                 case "+":
